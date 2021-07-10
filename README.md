@@ -1,1 +1,1 @@
-# pedra_papel_tesoura
+# Pedra, papel ou tesoura
